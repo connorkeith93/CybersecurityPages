@@ -1,4 +1,6 @@
-# This website, titled "Safe Practices Revolving Cybersecurity," is designed to provide information and guidance on essential cybersecurity practices. The HTML and CSS code in this repository structures the website with a user-friendly interface, incorporating various elements to enhance visual appeal and content organization.
+# Cybersecurity Essentials HTML/CSS Webpage
+
+This website, titled "Safe Practices Revolving Cybersecurity," is designed to provide information and guidance on essential cybersecurity practices. The HTML and CSS code in this repository structures the website with a user-friendly interface, incorporating various elements to enhance visual appeal and content organization.
 
 Cybersecurity.css: This stylesheet defines the styling and layout of the website, creating a visually cohesive and appealing design. It employs a dark theme with green text to align with cybersecurity aesthetics.
 
